@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Onibo-exe.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Onibo-exe DOWN POSE0000" x="1500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0001" x="1000" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0002" x="1500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0003" x="2000" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0004" x="2500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0005" x="2500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0006" x="2500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0007" x="2500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe DOWN POSE0008" x="2500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Idle0000" x="0" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Idle0001" x="0" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Idle0002" x="500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0003" x="500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0004" x="1000" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0005" x="1000" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0006" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0007" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0008" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0009" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0010" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0011" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0012" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0013" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Idle0014" x="1500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>>
+	<SubTexture name="Onibo-exe Left Pose0000" x="2500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0001" x="2000" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0002" x="2500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0003" x="3000" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0004" x="3500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0005" x="3500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0006" x="3500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0007" x="3500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Left Pose0008" x="3500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0000" x="4500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0001" x="4000" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0002" x="4500" y="0" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0003" x="0" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0004" x="500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0005" x="500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0006" x="500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0007" x="500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Pose Left0008" x="500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0000" x="3500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0001" x="3000" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0002" x="3500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0003" x="4000" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0004" x="4500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0005" x="4500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0006" x="4500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0007" x="4500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+	<SubTexture name="Onibo-exe Up Pose0008" x="4500" y="800" width="500" height="800" frameX="0" frameY="0" frameWidth="500" frameHeight="800"/>
+</TextureAtlas>

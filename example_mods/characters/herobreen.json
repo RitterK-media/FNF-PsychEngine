@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				-23
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Herobreen Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-23
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Herobreen Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-23
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Herobreen Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-21
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Herobreen Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-23
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Herobreen idle dance"
+		},
+		{
+			"offsets": [
+				37,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Herobreen attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Herobreen",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "herobreen",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

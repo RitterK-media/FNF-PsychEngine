@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		20
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kurobo normal0",
+			"loop_name": "kurobo normal"
+		},
+		{
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"anim": "tired",
+			"loop_offsets": [
+				-30,
+				0
+			],
+			"idle_name": "kurobo tired0",
+			"loop_name": "kurobo tired"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "head",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kurobo head0",
+			"loop_name": "kurobo head"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kurobo talk0",
+			"loop_name": "kurobo talk"
+		}
+	],
+	"image": "Kurobo_D"
+}

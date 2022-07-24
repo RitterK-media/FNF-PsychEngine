@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal1",
+			"text": "Nice rap kid.",
+			"boxState": "normal",
+			"sound": "herobrine",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "talk",
+			"text": "Bee bap!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal2",
+			"text": "Now it's my turn.",
+			"boxState": "normal",
+			"sound": "herobreen",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "normal2",
+			"text": "I will strike you with my fire.\\nSo, you have to dodge okay?",
+			"boxState": "normal",
+			"sound": "herobreen",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mae2",
+			"text": "Good. Now begin.",
+			"boxState": "normal",
+			"sound": "herobreen",
+			"speed": 0.05,
+			"portrait": "hero"
+		}
+	]
+}

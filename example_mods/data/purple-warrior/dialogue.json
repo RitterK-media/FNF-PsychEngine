@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal2",
+			"text": "Very nice kid.",
+			"boxState": "normal",
+			"sound": "herobreen",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "excited",
+			"text": "Skdee!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal1",
+			"text": "But we have not lost yet.",
+			"boxState": "normal",
+			"sound": "herobrine",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "normal1",
+			"text": "We are going to tag team and fight you again.\\nHow do you think?",
+			"boxState": "normal",
+			"sound": "herobrine",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "excited",
+			"text": "Bo ba bee.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mae2",
+			"text": "Nice answer. Now let's begin!",
+			"boxState": "normal",
+			"sound": "herobreen",
+			"speed": 0.05,
+			"portrait": "Hero"
+		},
+		{
+			"expression": "wara",
+			"text": "Oh this gonna be very exited!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		}
+	]
+}

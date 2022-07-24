@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monako.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Angry monako DOWN NOTE instance 10000" x="0" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10001" x="0" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10002" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10003" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10004" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10005" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10006" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10007" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10008" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10009" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10010" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10011" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10012" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako DOWN NOTE instance 10013" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10000" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10001" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10002" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10003" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10004" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10005" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10006" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10007" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10008" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10009" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10010" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10011" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10012" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako Idle instance 10013" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10000" x="945" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10001" x="945" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10002" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10003" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10004" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10005" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10006" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10007" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10008" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10009" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10010" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10011" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10012" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako LEFT NOTE instance 10013" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10000" x="1215" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10001" x="1215" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10002" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10003" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10004" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10005" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10006" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10007" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10008" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10009" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10010" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10011" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10012" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako RIGHT NOTE instance 10013" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10000" x="1485" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10001" x="1485" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10002" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10003" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10004" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10005" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10006" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10007" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10008" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10009" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10010" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10011" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10012" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry monako UP NOTE instance 10013" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="monako DOWN NOTE instance 10000" x="140" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10001" x="140" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10002" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10003" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10004" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10005" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10006" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10007" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10008" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10009" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10010" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10011" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10012" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako DOWN NOTE instance 10013" x="210" y="100" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10000" x="70" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10001" x="70" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10002" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10003" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10004" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10005" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10006" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10007" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10008" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10009" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10010" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10011" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10012" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako LEFT NOTE instance 10013" x="0" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10000" x="210" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10001" x="210" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10002" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10003" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10004" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10005" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10006" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10007" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10008" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10009" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10010" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10011" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10012" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako RIGHT NOTE instance 10013" x="140" y="200" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10000" x="0" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10001" x="0" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10002" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10003" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10004" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10005" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10006" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10007" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10008" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10009" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10010" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10011" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10012" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako UP NOTE instance 10013" x="70" y="100" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10000" x="0" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10001" x="0" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10002" x="70" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10003" x="70" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10004" x="140" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10005" x="140" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10006" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10007" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10008" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10009" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10010" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10011" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10012" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10013" x="210" y="0" width="70" height="100"/>
+	<SubTexture name="monako Idle instance 10014" x="210" y="0" width="70" height="100"/>
+	
+</TextureAtlas>

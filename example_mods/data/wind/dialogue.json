@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "ase",
+			"text": "Ahh, I'm sorry the song is so short.\\nI was out of ideas.",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Skdep beep.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep ba boo bep baap.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Hm?\\nDo you want to teach me a song in the minor key?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wara",
+			"text": "Oh, Yes you can!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "ase",
+			"text": "(What does the <minor key> mean?)",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		}
+	]
+}

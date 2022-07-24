@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hero_D.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hero normal0000" x="0" y="0" width="432" height="718"/>
+	<SubTexture name="hero normal0001" x="0" y="0" width="432" height="718"/>
+	
+	
+	<SubTexture name="hero2 normal0000" x="864" y="0" width="432" height="718"/>
+	<SubTexture name="hero2 normal0001" x="864" y="0" width="432" height="718"/>
+	
+	
+	
+	<SubTexture name="hero mae0000" x="432" y="0" width="432" height="718"/>
+	<SubTexture name="hero mae0001" x="432" y="0" width="432" height="718"/>
+	
+	
+	<SubTexture name="hero2 mae0000" x="1296" y="0" width="432" height="718"/>
+	<SubTexture name="hero2 mae0001" x="1296" y="0" width="432" height="718"/>
+	
+	<SubTexture name="hero3 normal0000" x="1728" y="0" width="432" height="718"/>
+	<SubTexture name="hero3 normal0001" x="1728" y="0" width="432" height="718"/>
+	
+</TextureAtlas>

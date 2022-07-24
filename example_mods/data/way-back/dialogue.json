@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "head",
+			"text": "Well... the song is over."
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ba bop!"
+		},
+		{
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo",
+			"boxState": "normal",
+			"expression": "wara",
+			"text": "Yeah!\\nYour song was very good!"
+		},
+		{
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo",
+			"boxState": "normal",
+			"expression": "wara",
+			"text": "I want to hear more!"
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "More...?\\nIt was fun, but..."
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "head",
+			"text": "..."
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, fine, let's sing more!"
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bep!"
+		}
+	]
+}

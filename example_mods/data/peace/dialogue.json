@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Wow!\\nThat was very good!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "normal",
+			"text": "Um, can I sing first next?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop bap.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I want to sing my song too.",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Ba be bop!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Here I go!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		}
+	]
+}

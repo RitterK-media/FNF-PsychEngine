@@ -177,7 +177,8 @@ class PlayState extends MusicBeatState
 
 	public var botplaySine:Float = 0;
 	public var botplayTxt:FlxText;
-
+	public var eventTxt:FlxText;
+	
 	public var iconP1:HealthIcon;
 	public var iconP2:HealthIcon;
 	public var camHUD:FlxCamera;
@@ -1158,6 +1159,9 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
+
+				case 'tutorial':
+					startDialogue(dialogueJson);
 
 				default:
 					startCountdown();
@@ -2695,6 +2699,35 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
+        
+            case 'Flash':
+			var value:Int = Std.parseInt(value1);
+			if(value1 == 'White')
+				{
+					FlxG.camera.flash(FlxColor.WHITE, 1);
+				}
+
+            case 'Text':
+			var value:Int = Std.parseInt(value1);
+			var val2:Int = Std.parseInt(value2);
+			eventTxt = new FlxText(400, 300, FlxG.width - 800, value1, 32);
+		    eventTxt.setFormat(Paths.font("vcr.ttf"), 1 + val2, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+			eventTxt.scrollFactor.set();
+		    eventTxt.borderSize =1/16 * val2;
+		    
+			add(eventTxt);
+			
+			case 'Remove Text':
+			remove(eventTxt);
+
+
+
+
+
+
+
+
+
 			case 'Hey!':
 				var value:Int = 2;
 				switch(value1.toLowerCase().trim()) {
@@ -3176,7 +3209,7 @@ class PlayState extends MusicBeatState
 		} else {
 			var achieve:String = checkForAchievement(['week1_nomiss', 'week2_nomiss', 'week3_nomiss', 'week4_nomiss',
 				'week5_nomiss', 'week6_nomiss', 'week7_nomiss', 'ur_bad',
-				'ur_good', 'hype', 'two_keys', 'toastie', 'debugger']);
+				'ur_good', 'hype', 'two_keys', 'toastie', 'speed', 'debugger']);
 
 			if(achieve != null) {
 				startAchievement(achieve);
@@ -4501,6 +4534,10 @@ class PlayState extends MusicBeatState
 						}
 					case 'debugger':
 						if(Paths.formatToSongPath(SONG.song) == 'test' && !usedPractice) {
+							unlock = true;
+						}
+					case 'speed':
+						if(Paths.formatToSongPath(SONG.song) == 'speed-cop' && !usedPractice) {
 							unlock = true;
 						}
 				}

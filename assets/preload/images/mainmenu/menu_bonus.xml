@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_bonus.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonus basic0000" x="0" y="0" width="643" height="181" pivotX="7.65" pivotY="10.55"/>
+	<SubTexture name="bonus basic0001" x="0" y="0" width="643" height="181"/>
+	<SubTexture name="bonus basic0002" x="0" y="0" width="643" height="181"/>
+	<SubTexture name="bonus basic0003" x="0" y="181" width="643" height="181"/>
+	<SubTexture name="bonus basic0004" x="0" y="181" width="643" height="181"/>
+	<SubTexture name="bonus basic0005" x="0" y="181" width="643" height="181"/>
+	<SubTexture name="bonus basic0006" x="0" y="362" width="643" height="181"/>
+	<SubTexture name="bonus basic0007" x="0" y="362" width="643" height="181"/>
+	<SubTexture name="bonus basic0008" x="0" y="362" width="643" height="181"/>
+	<SubTexture name="bonus white0000" x="643" y="0" width="643" height="181" pivotX="7.65" pivotY="10.55" frameX="0" frameY="0" frameWidth="643" frameHeight="181"/>
+	<SubTexture name="bonus white0001" x="643" y="181" width="643" height="181" frameX="0" frameY="0" frameWidth="643" frameHeight="181"/>
+	<SubTexture name="bonus white0002" x="643" y="362" width="643" height="181" frameX="0" frameY="0" frameWidth="643" frameHeight="181"/>
+</TextureAtlas>

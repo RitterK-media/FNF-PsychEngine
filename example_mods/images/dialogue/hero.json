@@ -1,0 +1,77 @@
+{
+	"position": [
+		50,
+		-20
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "Hero_D",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hero normal",
+			"idle_name": "hero normal0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hero2 normal",
+			"idle_name": "hero2 normal0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mae1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hero mae",
+			"idle_name": "hero mae0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mae2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hero2 mae",
+			"idle_name": "hero2 mae0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hero3 normal",
+			"idle_name": "hero3 normal0"
+		}
+	]
+}

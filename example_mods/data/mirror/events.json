@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "park",
+		"player1": "bf",
+		"player2": "herobreen",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					],
+					[
+						"Text",
+						"Hit the Fire notes to dodge",
+						"40"
+					]
+				]
+			],
+			[
+				6400,
+				[
+					[
+						"Remove Text",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Mirror"
+	}
+}

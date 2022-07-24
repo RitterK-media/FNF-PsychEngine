@@ -1,0 +1,266 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				3
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Up Note Onibo-chan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Down Note Onibo-chan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Left Note Onibo-chan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Right Note Onibo-chan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Right Note Yama",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-5
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Down Note Yama",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				-1
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Left Note Yama",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-6
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Onibo-chan_Yama Up Note Yama",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Onibo-chan_Yama Idle"
+		},
+		{
+			"offsets": [
+				-7,
+				2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Onibo-chan_Yama Up Note Onibo-chan"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Onibo-chan_Yama Left Note Onibo-chan"
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Onibo-chan_Yama Down Note Onibo-chan"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Onibo-chan_Yama Right Note Onibo-chan"
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Onibo-chan_Yama Right Note Yama"
+		},
+		{
+			"offsets": [
+				3,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Onibo-chan_Yama Up Note Yama"
+		},
+		{
+			"offsets": [
+				-12,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Onibo-chan_Yama Left Note Yama"
+		},
+		{
+			"offsets": [
+				-3,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Onibo-chan_Yama Down Note Yama"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Onibo-chan_Yama",
+	"position": [
+		-10,
+		-40
+	],
+	"healthicon": "oniyama",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		194,
+		174
+	],
+	"camera_position": [
+		-310,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

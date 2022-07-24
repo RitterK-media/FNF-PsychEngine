@@ -1,0 +1,48 @@
+{
+	"storyName": "onibo.exe",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week 6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Onibo-exe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hallucinations",
+			"onibo-exe",
+			[
+				120,
+				0,
+				20
+			]
+		],
+		[
+			"Massacre",
+			"onibo-exe",
+			[
+				120,
+				0,
+				20
+			]
+		],
+		[
+			"Collapse",
+			"onibo-exe",
+			[
+				120,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week exe"
+}

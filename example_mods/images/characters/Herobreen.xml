@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Herobreen.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Herobreen Sing Note DOWN0000" x="400" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0001" x="400" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0002" x="0" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0003" x="0" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0004" x="1600" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0005" x="1600" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0006" x="1600" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0007" x="1600" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note DOWN0008" x="1600" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	
+    <SubTexture name="Herobreen Sing Note LEFT0000" x="0" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0001" x="0" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0002" x="1600" y="1248" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0003" x="1600" y="1248" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0004" x="1200" y="1248" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0005" x="1200" y="1248" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0006" x="1200" y="1248" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0007" x="1200" y="1248" width="400" height="624"/>
+	<SubTexture name="Herobreen Sing Note LEFT0008" x="1200" y="1248" width="400" height="624"/>
+
+	<SubTexture name="Herobreen Sing Note RIGHT0000" x="1600" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0001" x="1600" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0002" x="1200" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0003" x="1200" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0004" x="800" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0005" x="800" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0006" x="800" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0007" x="800" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note RIGHT0008" x="800" y="624" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	
+	<SubTexture name="Herobreen Sing Note UP0000" x="800" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0001" x="800" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0002" x="400" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0003" x="400" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0004" x="0" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0005" x="0" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0006" x="0" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0007" x="0" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen Sing Note UP0008" x="0" y="1248" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+
+	<SubTexture name="Herobreen idle dance0000" x="1200" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0001" x="1200" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0002" x="800" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0003" x="800" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0004" x="400" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0005" x="400" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0006" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0007" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0008" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0009" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0010" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0011" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	<SubTexture name="Herobreen idle dance0012" x="0" y="0" width="400" height="624" frameX="0" frameY="0" frameWidth="400" frameHeight="624"/>
+	
+	<SubTexture name="Herobreen attack0000" x="1600" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0001" x="1600" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0002" x="1200" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0003" x="1200" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0004" x="800" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0005" x="800" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0006" x="400" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0007" x="400" y="1872" width="400" height="624"/>
+	<SubTexture name="Herobreen attack0008" x="400" y="1872" width="400" height="624"/>
+
+</TextureAtlas>

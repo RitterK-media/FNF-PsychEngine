@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HerobreenBG.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hero Idle0000" x="900" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0001" x="900" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0002" x="600" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0003" x="600" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0004" x="300" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0005" x="300" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0006" x="0" y="0" width="300" height="500"/>
+	<SubTexture name="hero Idle0007" x="0" y="0" width="300" height="500"/>
+	
+	
+	
+</TextureAtlas>

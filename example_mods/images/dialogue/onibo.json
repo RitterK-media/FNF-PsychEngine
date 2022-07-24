@@ -1,0 +1,63 @@
+{
+	"position": [
+		40,
+		-60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Onibo_D",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ase",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "onibo ase",
+			"idle_name": "onibo ase0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "onibo happy",
+			"idle_name": "onibo happy0"
+		},
+		{
+			"loop_name": "onibo normal LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "onibo normal0",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "onibo wara",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "onibo wara0",
+			"anim": "wara",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

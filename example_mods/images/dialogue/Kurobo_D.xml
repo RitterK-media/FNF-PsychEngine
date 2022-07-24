@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kurobo_D.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kurobo normal0000" x="0" y="0" width="300" height="600"/>
+	<SubTexture name="kurobo normal0001" x="0" y="0" width="300" height="600"/>
+	
+	
+	<SubTexture name="kurobo tired0000" x="300" y="0" width="300" height="600"/>
+	<SubTexture name="kurobo tired0001" x="300" y="0" width="300" height="600"/>
+	
+	
+	
+	<SubTexture name="kurobo head0000" x="600" y="0" width="300" height="600"/>
+	<SubTexture name="kurobo head0001" x="600" y="0" width="300" height="600"/>
+	
+	
+	<SubTexture name="kurobo talk0000" x="900" y="0" width="300" height="600"/>
+	<SubTexture name="kurobo talk0001" x="900" y="0" width="300" height="600"/>
+	
+
+</TextureAtlas>

@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal3",
+			"text": "That was very exciting.",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrareen"
+		},
+		{
+			"expression": "shocked",
+			"text": "Bee baa bop!?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		},
+		{
+			"expression": "normal3",
+			"text": "Me? I am Herobrareen.\\nI'm the fusion of Herobrine and Herobreen.",
+			"boxState": "normal",
+			"sound": "herobrareen",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "normal",
+			"text": "You guys fused huh?\\nLooks like you two really wanted to win.",
+			"boxState": "normal",
+			"portrait": "onibo",
+			"speed": 0.05,
+			"sound": "onibo"
+		},
+		{
+			"expression": "normal3",
+			"text": "Yeah, but we enjoyed the rap battle,\\nso, nothing is bad.",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrareen"
+		},
+		{
+			"expression": "wara",
+			"text": "Then, thats good!",
+			"boxState": "normal",
+			"portrait": "onibo",
+			"speed": 0.05,
+			"sound": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Skdep baap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		},
+		{
+			"expression": "normal3",
+			"text": "Yeah, hope to see you again.",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrareen"
+		},
+		{
+			"expression": "wara",
+			"text": "Alright! Let's go to next!",
+			"boxState": "normal",
+			"portrait": "onibo",
+			"speed": 0.05,
+			"sound": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		}
+	]
+}

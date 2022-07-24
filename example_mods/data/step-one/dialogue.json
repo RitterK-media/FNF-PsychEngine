@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Excuse me.",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Can I ask you a question?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Ammm... are you a singer?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "ase",
+			"text": "If you are, can you teach me\\nhow to sing?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bee bap?",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "ase",
+			"text": "My family said they wanted to go to karaoke, so I have to be able to sing.",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap bee bep!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, really?!\\nThank you!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Be bap boop skdee bep.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wara",
+			"text": "Okay, I will follow you!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		}
+	]
+}

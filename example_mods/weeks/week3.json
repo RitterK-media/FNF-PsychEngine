@@ -1,0 +1,50 @@
+{
+	"storyName": "Kurobo",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"street light",
+			"kurobo",
+			[
+				106,
+				215,
+				135
+			]
+		],
+		[
+			"way back",
+			"kurobo",
+			[
+				106,
+				215,
+				135
+			]
+		],
+		[
+			"stars",
+			"kurobo",
+			[
+				106,
+				215,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Kurobo Week",
+	"hiddenUntilUnlocked": false
+}

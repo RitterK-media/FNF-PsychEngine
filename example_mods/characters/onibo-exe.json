@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Onibo-exe Idle"
+		},
+		{
+			"offsets": [
+				9,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Onibo-exe Left Pose"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Onibo-exe Pose Left"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Onibo-exe DOWN POSE"
+		},
+		{
+			"offsets": [
+				14,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Onibo-exe Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Onibo-exe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "onibo-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

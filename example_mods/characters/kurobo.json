@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-26
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kurobo Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-27
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kurobo Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-25
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kurobo Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-24
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kurobo Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				-26
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kurobo idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kurobo",
+	"position": [
+		210,
+		110
+	],
+	"healthicon": "Kurobo",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		255,
+		122
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

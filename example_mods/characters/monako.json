@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-140
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "monako Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monako UP NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "monako RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				44,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "monako LEFT NOTE"
+		},
+		{
+			"offsets": [
+				1,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monako DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/monako",
+	"position": [
+		190,
+		440
+	],
+	"healthicon": "monako",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		160
+	],
+	"camera_position": [
+		-270,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 6.00000000000001
+}

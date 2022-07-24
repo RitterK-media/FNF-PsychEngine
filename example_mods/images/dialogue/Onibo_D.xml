@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Onibo_D.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="onibo normal0000" x="0" y="0" width="432" height="718"/>
+	<SubTexture name="onibo normal0001" x="0" y="0" width="432" height="718"/>
+	<SubTexture name="onibo normal LOOP0000" x="0" y="0" width="432" height="718"/>
+	<SubTexture name="onibo normal LOOP0001" x="0" y="0" width="432" height="718"/>
+	
+	<SubTexture name="onibo happy0000" x="864" y="0" width="432" height="718"/>
+	<SubTexture name="onibo happy0001" x="864" y="0" width="432" height="718"/>
+	<SubTexture name="onibo happy LOOP0000" x="864" y="0" width="432" height="718"/>
+	<SubTexture name="onibo happy LOOP0001" x="864" y="0" width="432" height="718"/>
+	
+	
+	<SubTexture name="onibo ase0000" x="432" y="0" width="432" height="718"/>
+	<SubTexture name="onibo ase0001" x="432" y="0" width="432" height="718"/>
+	
+	
+	<SubTexture name="onibo wara0000" x="1296" y="0" width="432" height="718"/>
+	<SubTexture name="onibo wara0001" x="1296" y="0" width="432" height="718"/>
+	
+</TextureAtlas>

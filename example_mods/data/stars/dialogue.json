@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "You have a good voice."
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee baap!"
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "head",
+			"text": "I'm getting really tired now...\\nThe next one is the final song, ok?"
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, let's start."
+		}
+	]
+}

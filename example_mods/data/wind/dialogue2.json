@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "wara",
+			"text": "Yeah, thank you for teaching me how to sing well!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap bop bep.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Hm?\\nYou two don't know how to get home, do you?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep.",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmmmmmm...",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "happy",
+			"text": "Oh!\\nI know someone who can solve that problem!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "wara",
+			"text": "I will show you both around this city until that person comes up with a solution!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "excited",
+			"text": "Bap bee bop!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wara",
+			"text": "Then let's go!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		}
+	]
+}

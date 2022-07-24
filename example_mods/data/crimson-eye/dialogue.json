@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "wara",
+			"text": "Hi! Herobrine and Herobreen!",
+			"boxState": "normal",
+			"portrait": "onibo",
+			"speed": 0.05,
+			"sound": "onibo"
+		},
+		{
+			"expression": "normal1",
+			"text": "Hi, Onibo.\\n...Who is these kids?",
+			"boxState": "normal",
+			"portrait": "Hero",
+			"speed": 0.05,
+			"sound": "herobrine"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep Bop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		},
+		{
+			"expression": "normal",
+			"text": "He is BF.\\nAnd the girl siting on the speaker is GF.",
+			"boxState": "normal",
+			"portrait": "onibo",
+			"speed": 0.05,
+			"sound": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Nice to meet you.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "GF"
+		},
+		{
+			"expression": "normal2",
+			"text": "My name is Herobreen.\\nNice to meet you too.",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobreen"
+		},
+		{
+			"expression": "normal1",
+			"text": "Also my name is Herobrine.",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrine"
+		},
+		{
+			"expression": "normal1",
+			"text": "So, why did you guys come here?",
+			"boxState": "normal",
+			"sound": "herobrine",
+			"speed": 0.05,
+			"portrait": "hero"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap skee!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		},
+		{
+			"expression": "normal2",
+			"text": "Rap battle?",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobreen"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		},
+		{
+			"expression": "normal",
+			"text": "BF is very good at singing and rapping.\\nWhy don't you rap with him?",
+			"boxState": "normal",
+			"portrait": "onibo",
+			"speed": 0.05,
+			"sound": "onibo"
+		},
+		{
+			"expression": "normal1",
+			"text": "Hmm...\\nFine.",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrine"
+		},
+		{
+			"expression": "normal1",
+			"text": "But if you show an opening,\\nI will attack you. Okay?",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrine"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "BF"
+		},
+		{
+			"expression": "mae1",
+			"text": "Then let's start!",
+			"boxState": "normal",
+			"portrait": "hero",
+			"speed": 0.05,
+			"sound": "herobrine"
+		}
+	]
+}

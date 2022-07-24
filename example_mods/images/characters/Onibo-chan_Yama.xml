@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Onibo-chan_Yama.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Onibo-chan_Yama Idle0000" x="1000" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0001" x="1000" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0002" x="500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0003" x="500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0004" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0005" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0006" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0007" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0008" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0009" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0010" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0011" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0012" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Idle0013" x="0" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0000" x="2500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0001" x="2500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0002" x="2000" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0003" x="2000" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0004" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0005" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0006" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0007" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0008" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0009" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0010" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0011" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0012" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0013" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Onibo-chan0014" x="1500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0000" x="2500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0001" x="2500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0002" x="2000" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0003" x="2000" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0004" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0005" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0006" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0007" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0008" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0009" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0010" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0011" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0012" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0013" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Down Note Yama0014" x="1500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0000" x="1000" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0001" x="1000" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0002" x="500" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0003" x="500" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0004" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0005" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0006" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0007" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0008" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0009" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0010" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0011" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0012" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0013" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0014" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Onibo-chan0015" x="0" y="2800" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0000" x="1000" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0001" x="1000" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0002" x="500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0003" x="500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0004" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0005" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0006" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0007" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0008" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0009" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0010" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0011" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0012" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0013" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Left Note Yama0014" x="0" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0000" x="1000" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0001" x="1000" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0002" x="500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0003" x="500" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0004" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0005" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0006" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0007" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0008" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0009" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0010" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0011" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0012" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0013" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0014" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Onibo-chan0015" x="0" y="2100" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0000" x="1000" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0001" x="1000" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0002" x="500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0003" x="500" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0004" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0005" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0006" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0007" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0008" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0009" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0010" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0011" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0012" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0013" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Right Note Yama0014" x="0" y="700" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0000" x="2500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0001" x="2500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0002" x="2000" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0003" x="2000" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0004" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0005" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0006" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0007" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0008" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0009" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0010" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0011" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0012" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Onibo-chan0013" x="1500" y="1400" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0000" x="2500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0001" x="2500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0002" x="2000" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0003" x="2000" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0004" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0005" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0006" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0007" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0008" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0009" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0010" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0011" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0012" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+	<SubTexture name="Onibo-chan_Yama Up Note Yama0013" x="1500" y="0" width="500" height="700" frameX="0" frameY="0" frameWidth="500" frameHeight="700"/>
+</TextureAtlas>

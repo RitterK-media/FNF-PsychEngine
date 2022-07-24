@@ -77,6 +77,13 @@ class VisualsUISubState extends BaseOptionsMenu
 			true);
 		addOption(option);
 
+		// var option:Option = new Option('Japanese mode on bonus menu',
+		// 	"If checked, the language change to Japanese in bonus menu.",
+		// 	'JP Mode',
+		// 	'bool',
+		// 	true);
+		// addOption(option);
+
 		var option:Option = new Option('Health Bar Transparency',
 			'How much transparent should the health bar and icons be.',
 			'healthBarAlpha',
@@ -134,5 +141,6 @@ class VisualsUISubState extends BaseOptionsMenu
 		if(Main.fpsVar != null)
 			Main.fpsVar.visible = ClientPrefs.showFPS;
 	}
+
 	#end
 }

@@ -1,0 +1,48 @@
+{
+	"storyName": "Omake",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Oreore",
+			"Ore",
+			[
+				166,
+				166,
+				166
+			]
+		],
+		[
+			"Speed cop",
+			"itomen",
+			[
+				146,
+				173,
+				255
+			]
+		],
+		[
+			"Violence destroyer",
+			"kokoro",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "tired",
+			"text": "Finally, I can go home.\\nI had so many works...",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "tired",
+			"text": "I'm soooooooo tired...",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "normal",
+			"text": "But today is Friday.\\nI can rest on the weekend!",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "wara",
+			"text": "Heyyyy Kurobo!\\nHow are you doing?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, hi Onibo.\\nWhat are doing here at night?",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "normal",
+			"text": "Emmh... we're looking for someone\\nto rap.",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "talk",
+			"text": "...at night?",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "ase",
+			"text": "Yeah, at night.",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "normal",
+			"text": "By the way, you look really tired.\\nAre you Ok?",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "normal",
+			"text": "Do I?\\nActually, I am very tired.\\nI'll head home to rest soon.",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "normal",
+			"text": "You should. Yes.\\nBut...",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "normal",
+			"text": "I think you need a more active way to relax!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "ase",
+			"text": "With like... singing!",
+			"boxState": "normal",
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo"
+		},
+		{
+			"expression": "head",
+			"text": "... singing?",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "talk",
+			"text": "Beeeep!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "... Well, if you say so...",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "talk",
+			"text": "But only one song, ok?",
+			"boxState": "normal",
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

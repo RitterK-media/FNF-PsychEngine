@@ -1,0 +1,49 @@
+{
+	"storyName": "onibo",
+	"hideFreeplay": false,
+	"weekBackground": "park",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"step one",
+			"onibo",
+			[
+				226,
+				153,
+				0
+			]
+		],
+		[
+			"peace",
+			"onibo",
+			[
+				226,
+				153,
+				15
+			]
+		],
+		[
+			"wind",
+			"onibo",
+			[
+				226,
+				153,
+				15
+			]
+		]
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

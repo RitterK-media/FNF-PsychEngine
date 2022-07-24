@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I think I am more relaxed now.\\nThanks!"
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Skdee!"
+		},
+		{
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo",
+			"boxState": "normal",
+			"expression": "wara",
+			"text": "I'm happy to hear that!"
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are these kids by the way?"
+		},
+		{
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "They are BF and GF.\\nAnd they came from another world!"
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Another world?\\n...Well, I'm not surprised."
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ba skde bap."
+		},
+		{
+			"sound": "onibo",
+			"speed": 0.05,
+			"portrait": "onibo",
+			"boxState": "normal",
+			"expression": "wara",
+			"text": "Ok, we'll leave here.\\nSee you tomorrow Kurobo!"
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, see you Onibo."
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.155,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "kurobo",
+			"speed": 0.05,
+			"portrait": "kurobo",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "(Today was a ridiculously exhausting day...)"
+		}
+	]
+}
